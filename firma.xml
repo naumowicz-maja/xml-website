@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="page.xsl" ?>
+<company>
+<metadata>
+	<name>Firma Krzak</name>
+    <address>Dąbrowskiego 33</address>
+    <contact>777-222-555</contact>
+</metadata>
+<workers>
+	<person>
+		<id>123</id>
+		<name>Jolanta</name>
+		<surname>Kreciwalek</surname>
+		<division>spc. ds. Zamówień publicznych</division>
+	</person>
+	<person>
+		<id>125</id>
+		<name>Brajanusz</name>
+		<surname>Fachmann</surname>
+		<division>spc. ds. Projektów Unijnych</division>
+	</person>
+	<person>
+		<id>126</id>
+		<name>Miranda</name>
+		<surname>Nieda</surname>
+		<division>kier. gospodarczy</division>
+	</person>
+	<person>
+		<id>127</id>
+		<name>Marta</name>
+		<surname>Wcisnechłam</surname>
+		<division>spc. ds. sprzedaży</division>
+	</person>
+	<person>
+		<id>128</id>
+		<name>Jacek</name>
+		<surname>Donos</surname>
+		<division>spc. ds. kontroli i bezpieczeństwa</division>
+	</person>
+	<person>
+		<id>129</id>
+		<name>Kazimierz</name>
+		<surname>Staraszkoła</surname>
+		<division>spc. ds. rozwoju</division>
+	</person>
+	<person>
+		<id>130</id>
+		<name>Mariusz</name>
+		<surname>Kreda</surname>
+		<division>spc. ds. szkoleń</division>
+	</person>
+	<person>
+		<id>131</id>
+		<name>Franciszek</name>
+		<surname>Nierusz</surname>
+		<division>spc. ds. technicznych</division>
+	</person>
+	<person>
+		<id>132</id>
+		<name>Aldona</name>
+		<surname>Kasybrak</surname>
+		<division>spc. ds. finansowo-księgowych</division>
+	</person>
+	<person>
+		<id>133</id>
+		<name>Barbara</name>
+		<surname>Bezpamięci</surname>
+		<division>spc. ds. planowania</division>
+	</person>
+	<person>
+		<id>134</id>
+		<name>Mirosław</name>
+		<surname>Wielepiej</surname>
+		<division>spc. ds. doradztwa biznesowego</division>
+	</person>
+</workers>
+</company>
